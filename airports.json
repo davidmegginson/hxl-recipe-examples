@@ -8,9 +8,24 @@
                 "count"
             ],
             "aggregateColumns": [
-                "#loc"
+                "#loc+type"
             ],
             "valueColumns": []
         }
-    }
+    },
+    {
+        "name": "Charts: Sum items for a tag grouped by administrative units",
+        "description": "",
+        "type": "timeseries",
+        "ingredients": {
+            "aggregateFunctions": [
+                "count"
+            ],
+            "aggregateColumns": [
+                "#date"
+            ],
+            "valueColumns": [
+            ]
+        }
+    },
 ]
