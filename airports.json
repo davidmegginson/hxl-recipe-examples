@@ -5,24 +5,13 @@
         "type": "chart",
         "ingredients": {
             "aggregateFunctions": [
-                "sum",
                 "count"
             ],
             "aggregateColumns": [
                 "#country",
-                "#adm1",
-                "#adm2",
-                "#adm3",
-                "#adm4",
-                "#adm5"
+                "#adm1"
             ],
-            "valueColumns": [
-                "#affected",
-                "#inneed",
-                "#reached",
-                "#targeted",
-                "#population"
-            ]
+            "valueColumns": []
         }
     }
 ]
