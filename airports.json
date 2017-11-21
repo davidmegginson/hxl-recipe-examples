@@ -1,0 +1,10 @@
+{
+ "name": "My first recipe!",
+ "description": "",
+ "type": "chart",
+ "ingredients": {
+   "aggregateFunctions": ["count"],
+   "aggregateColumns": ["#adm1+code", "#loc+type"],
+   "valueColumns": []
+ }
+}
