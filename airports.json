@@ -8,7 +8,6 @@
                 "count"
             ],
             "aggregateColumns": [
-                "#adm1",
                 "#loc"
             ],
             "valueColumns": []
