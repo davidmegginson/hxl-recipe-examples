@@ -1,4 +1,4 @@
-{
+[{
  "name": "My first recipe!",
  "description": "",
  "type": "chart",
@@ -7,4 +7,4 @@
    "aggregateColumns": ["#adm1+code", "#loc+type"],
    "valueColumns": []
  }
-}
+}]
